@@ -16,21 +16,23 @@ approach goals are when you think of objective in terms of what you want, and ho
 - Read from budget project documentation (1 hour)
   - Understand Project
   - Read required docs.
-  - Write out question 
+  - Write out question
   - Make research... and write plan for the project execution
-
+    - plan
+      - Read doc @https://www.freecodecamp.org/news/fullstack-react-blog-app-with-express-and-psql/ = to learn how to set up a react-express-postgresql env.
+  
 - Learn python from dr. chuck
   - Understand concepts
-  - Start reading from book ::: Goal : to solve all problem from scatch
+  - Start reading from book ::: Goal : to solve all problem from scatch.
 
-- Eat Sahur : Ensure to pray before eating(Nafilah).
+- Eat Sahur : Ensure to pray before eating(Nafilah). (DID)
 
-- meditation (10 min) @6:00am
+- Pray(Subhi), Qur'an (DID)
 
-- Watch tutorials on algorithm and data structures @treehouse (1 hour)
+- meditation (10 min) @6:00am (DID)
 
-- Ideas from new project (----Solution-----)
+- Watch tutorials on algorithm and data structures @treehouse (1 hour) (NIL)
 
-- Go to transit camp
+- Learn build project (Dr chuck class... Python, SQL)
 
-- Continue with python ::: Goal : solve enough problem to boost understanding.
+- Ideas from new project (----Solution-----).
