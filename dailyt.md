@@ -36,3 +36,21 @@ approach goals are when you think of objective in terms of what you want, and ho
 - Learn build project (Dr chuck class... Python, SQL)
 
 - Ideas from new project (----Solution-----).
+
+
+WHAT TO DO:
+- Plan
+  : Based prepareForJobs session :: Algorithms and Datastructure
+  : Python :: improve python skills by reading and writing algorithm implementation with python
+  : Contraint :: Python isn't the focus language, so the time spent on learning python would limited to algo&datas sessions which would go for an hour everyday
+
+- Plan
+  : Based javaScript :: Full stack developer development.
+  : Core javaScript  :: Mastering javaScript :: Project Development :: Build Soft Skills.
+  : Prepare to becoming an open source contributor :: Set standard for self. 
+
+- Plan
+  : Based on communitydevservice :: Projects
+  : How to go about it :: Strategies to confuse the community on how project would benfit the society.\
+  : How go reach out to get sponsors :: what to write to them.
+  : Making Officials believe in team (INFOTECH) to do work.
